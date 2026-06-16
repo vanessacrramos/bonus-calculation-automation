@@ -1,46 +1,43 @@
 # Bonus Calculation Automation
 
-This project automates a monthly bonus calculation process for an equipment rental business.
+Automating monthly bonus calculations for an equipment rental business using Python, Pandas and Excel.
 
 ## Business Problem
 
-The bonus calculation process used to be extremely manual.
+The monthly bonus process was fully manual.
 
-Every month, the team had to open multiple equipment measurement records, check how many days each machine had been rented, identify the related customer and manually add each line to a spreadsheet.
+Every month, the team had to review equipment records, calculate rental days for each machine and manually consolidate the information into spreadsheets.
 
-This process could easily take hours and was prone to manual errors.
+The process was time-consuming, repetitive and prone to errors.
 
 ## Solution
 
-I built a Python workflow that automatically processes operational data, reconstructs machine rental activity for the month and generates the information needed for the monthly bonus calculation.
+Developed a Python workflow that:
 
-## What the workflow does
-
-* Reads operational data from Google Sheets
-* Processes equipment movement records
-* Identifies which machines were rented during the month
-* Calculates rental days by machine and customer
-* Applies business rules for the bonus calculation
-* Generates a structured output for reporting
-* Supports monthly status tracking through dashboards
+* Processes operational data
+* Reconstructs machine rental activity
+* Calculates rental days automatically
+* Applies bonus calculation rules
+* Generates monthly reports
 
 ## Impact
 
-* Reduced a process that took hours to seconds
-* Reduced repetitive manual work
-* Improved calculation consistency
-* Made the process easier to audit
-* Improved monthly operational visibility
+✅ Reduced reporting time from hours to seconds
+
+✅ Eliminated repetitive manual work
+
+✅ Improved consistency and auditability
+
+✅ Increased operational visibility
 
 ## Tech Stack
 
-* Python
-* Pandas
-* Google Sheets
-* Excel
+Python • Pandas • Google Sheets • Excel
 
-## Project Status
+## Example Output
 
-Active project
 
-This project is actively used and continuously improved as new business requirements emerge.
+
+## Workflow
+
+
