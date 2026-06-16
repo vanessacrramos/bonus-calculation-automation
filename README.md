@@ -1,6 +1,7 @@
 # Bonus Calculation Automation
 
-Automating monthly bonus calculations for an equipment rental business using Python, Pandas, Google Sheets and Excel.
+Automating monthly bonus calculations using Python, Pandas, Google Sheets and Excel.
+Real-world automation project developed for an equipment rental business.
 
 ## Business Problem
 
