@@ -37,6 +37,8 @@ Python • Pandas • Google Sheets • Excel
 ## Example Output
 
 
+<img width="709" height="349" alt="image" src="https://github.com/user-attachments/assets/68642fac-f7e2-4a25-a1de-ecdc618b9cce" />
+
 
 ## Workflow
 
